@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def n_choose_k(n, k):
     """from https://gist.github.com/rougier/ebe734dcc6f4ff450abf"""
     if 0 <= k <=n:
@@ -10,3 +11,6 @@ def n_choose_k(n, k):
         return ntok // ktok
     else:
         return 0
+
+def add_func(a, b):
+    return a+b
